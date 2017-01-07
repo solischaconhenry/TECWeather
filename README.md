@@ -23,12 +23,12 @@ Estación capáz de tomar los datos:
  
  
 ### Fuentes: 
-	[Sparkfun - Weather Station] (https://learn.sparkfun.com/tutorials/weather-shield-hookup-guide)
+ [Sparkfun Weather Station](https://learn.sparkfun.com/tutorials/weather-shield-hookup-guide)
  
 ### Equipo Hardware:
  
  - Arduino Uno
  - Sparkfun Weather Station
  
- ### Otros Enlaces:
-	[Weather Station Page] (http://54.218.29.64/#/measures)
+### Otros Enlaces:
+ [Weather Station Page](http://54.218.29.64/#/measures)
